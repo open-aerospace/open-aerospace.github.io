@@ -17,12 +17,20 @@ Building and flying ["High Power Rockets"][hpr] is a popular hobby world-wide. M
 A very important part of building a large—one or more meters tall, flights in the multiple kilometer range—rocket is trying to **optimize** the whole system. In the process of designing the rocket there are dozens, if not hundreds, of trade-offs to make. In a perfect world you could balance each decision for factors like cost, complexity, and mission outcome. This is hard!
 
 
+
+
+--------------------------------------------------------------------------------
+
 Projects:
 ---------
+
 
 {% for category in site.data.projects.categories %}
 
 ### {{ category.category }}
+
+
+<div class="column is-11 is-offset-1" markdown="1">
 
  {% for project in category.list %}
 #### [{{ project.name }}]({{ project.location }})
@@ -34,6 +42,8 @@ Projects:
 <{{ project.location }}>
 
  {% endfor %}
+
+</div>
 
 {% endfor %}
 
