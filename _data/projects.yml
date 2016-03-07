@@ -1,0 +1,22 @@
+categories:
+
+  - category: Languages
+    list:
+
+      - name: Open Rocket Document Format
+        location: https://github.com/open-aerospace/openrocketdoc
+        badges:
+          - https://img.shields.io/pypi/v/openrocketdoc.svg
+          - https://img.shields.io/travis/natronics/openrocketdoc.svg
+          - https://readthedocs.org/projects/openrocketdoc/badge/?version=latest
+        description: Open Rocket Document (.ord) is a suggested open document standard for describing sounding rockets. Includes many useful format transformations for use with scientific computing packages.
+
+
+  - category: Simulation
+    list:
+
+      - name: JSBSim NASA Test Cases
+        location: https://github.com/open-aerospace/jsbsim-nasa-test-cases
+        badges:
+          - https://img.shields.io/badge/language-IPython%20Notebook-yellow.svg
+        description: An attempt to apply NASA published flight simulation test cases to the open source JSBSim flight dynamics simulation framework.
