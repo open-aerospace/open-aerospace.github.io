@@ -1,7 +1,7 @@
 ---
 layout: news
-title: News
-description: Organization updates
+title: Open Aerospace News
+description: Updates and news about the Open Aerospace organization
 ---
 
 # News

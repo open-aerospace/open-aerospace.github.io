@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Open Source Aerospace
-description: Open Source Aerospace Engineering, modeling rocket flights with open-source tools and methods.
+title: Open Source Aerospace Computing
+description: Modeling rocket flight with open source tools and methods
 ---
 
 
