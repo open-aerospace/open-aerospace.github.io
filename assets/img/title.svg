@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55mm"
+   height="11mm"
+   viewBox="0 0 194.88189 38.976377"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="title.svg"
+   inkscape:export-filename="/home/natronics/Code/open-aerospace/open-aerospace.github.io/assets/img/title.png"
+   inkscape:export-xdpi="92.363632"
+   inkscape:export-ydpi="92.363632">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4200"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#f32c2c;fill-opacity:1;fill-rule:evenodd;stroke:#f32c2c;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4177">
+      <stop
+         style="stop-color:#34469c;stop-opacity:1"
+         offset="0"
+         id="stop4179" />
+      <stop
+         style="stop-color:#a4aee0;stop-opacity:1"
+         offset="1"
+         id="stop4181" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4177"
+       id="linearGradient4183"
+       x1="318.89758"
+       y1="17.716507"
+       x2="318.89758"
+       y2="70.866112"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4212"
+       x="-0.0061979464"
+       width="1.0123959"
+       y="-0.04194381"
+       height="1.0838876">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.49549575"
+         id="feGaussianBlur4214" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#7393eb"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.9568485"
+     inkscape:cx="97.440945"
+     inkscape:cy="22.514305"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1126"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-nodes="false"
+     fit-margin-top="0.8"
+     fit-margin-bottom="1"
+     fit-margin-right="-0.4"
+     fit-margin-left="0.1"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4167"
+       units="mm"
+       spacingx="17.716535"
+       spacingy="17.716536"
+       color="#f43fff"
+       opacity="0.0627451"
+       empcolor="#f43fff"
+       empopacity="0.1254902"
+       empspacing="4"
+       originx="-214.0816"
+       originy="-467.67819" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-214.0816,-545.70765)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(-214.0816,-24.841507)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.52156863;stroke:#e84039;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 209.49765,63.628039 c 33.77559,-4.032105 68.12485,-6.093383 102.75705,-6.093383 33.82247,0 67.37507,1.966016 100.387,5.813794"
+       id="path4226"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'Helvetica LT CondensedLight';-inkscape-font-specification:'Helvetica LT CondensedLight, Light';text-align:start;letter-spacing:-1px;word-spacing:4px;writing-mode:lr-tb;text-anchor:start;opacity:0.338;fill:#2826c4;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4212);"
+       x="214.01111"
+       y="56.021862"
+       id="text4171-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="95.231461"
+       inkscape:export-ydpi="95.231461"><tspan
+         sodipodi:role="line"
+         id="tspan4175-6"
+         style="fill:#2826c4;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         x="214.01111"
+         y="56.021862">open-aerospace</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'Helvetica LT CondensedLight';-inkscape-font-specification:'Helvetica LT CondensedLight, Light';text-align:start;letter-spacing:-1px;word-spacing:4px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="213.44418"
+       y="55.458004"
+       id="text4171"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="95.231461"
+       inkscape:export-ydpi="95.231461"><tspan
+         sodipodi:role="line"
+         id="tspan4175"
+         style="stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+         x="213.44418"
+         y="55.458004">open-aerospace</tspan></text>
+  </g>
+</svg>
