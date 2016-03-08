@@ -13,7 +13,7 @@ categories:
         description: Open Rocket Document (.ord) is a suggested open document standard for describing sounding rockets. Includes many useful format transformations for use with scientific computing packages.
 
 
-  - category: Simulations
+  - category: Simulation
     list:
 
       - name: JSBSim NASA Test Cases
@@ -22,3 +22,11 @@ categories:
           - https://img.shields.io/badge/language-JSBSim-red.svg
           - https://img.shields.io/badge/language-Jupyter%20Notebook-yellow.svg
         description: An attempt to apply NASA published flight simulation test cases to the open source JSBSim flight dynamics simulation framework.
+
+  - category: Historical Reconstructions
+    list:
+
+      - name: Lambda-4S
+        location: https://github.com/open-aerospace/Lambda-4S
+        badges: []
+        description: The Lambda-4S rocket is currently the smallest (by volume) rocket ever built by humans that has carried a Payload into Earth orbit. Much of it's history is fascinating.
