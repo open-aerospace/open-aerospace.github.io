@@ -2,6 +2,7 @@
 layout: news
 title: Open Aerospace News
 description: Updates and news about the Open Aerospace organization
+page: news
 ---
 
 # News

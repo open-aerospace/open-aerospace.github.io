@@ -2,6 +2,7 @@
 layout: frontpage
 title: Open Source Aerospace Computing
 description: Modeling rocket flight with open source tools and methods
+page: home
 ---
 
 
