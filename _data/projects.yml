@@ -4,7 +4,8 @@ categories:
     list:
 
       - name: Open Rocket Document Format
-        location: https://github.com/open-aerospace/openrocketdoc
+        location:
+        github: https://github.com/open-aerospace/openrocketdoc
         badges:
           - https://img.shields.io/badge/language-python-green.svg
           - https://img.shields.io/pypi/v/openrocketdoc.svg
@@ -17,16 +18,19 @@ categories:
     list:
 
       - name: JSBSim NASA Test Cases
-        location: https://github.com/open-aerospace/jsbsim-nasa-test-cases
+        location: /jsbsim-nasa-test-cases/
+        github: https://github.com/open-aerospace/jsbsim-nasa-test-cases
         badges:
-          - https://img.shields.io/badge/language-JSBSim-red.svg
+          - https://img.shields.io/badge/simulator-JSBSim-red.svg
           - https://img.shields.io/badge/language-Jupyter%20Notebook-yellow.svg
+          - https://travis-ci.org/open-aerospace/jsbsim-nasa-test-cases.svg?branch=master
         description: An attempt to apply NASA published flight simulation test cases to the open source JSBSim flight dynamics simulation framework.
 
   - category: Historical Reconstructions
     list:
 
       - name: Lambda-4S
-        location: https://github.com/open-aerospace/Lambda-4S
+        location:
+        github: https://github.com/open-aerospace/Lambda-4S
         badges: []
         description: The Lambda-4S rocket is currently the smallest (by volume) rocket ever built by humans that has carried a Payload into Earth orbit. Much of it's history is fascinating.

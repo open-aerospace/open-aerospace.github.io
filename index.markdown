@@ -33,13 +33,18 @@ Projects:
 <div class="column is-10 is-offset-1" markdown="1">
 
  {% for project in category.list %}
+
+{% if project.location %}
 #### [{{ project.name }}]({{ project.location }})
+{% else %}
+#### {{ project.name }}
+{% endif %}
 
 {% for badge in project.badges %}![]({{ badge }}) {% endfor %}
 
 {{ project.description }}
 
-<{{ project.location }}>
+<{{ project.github }}>
 
  {% endfor %}
 
