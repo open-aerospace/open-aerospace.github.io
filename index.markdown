@@ -31,7 +31,7 @@ Projects:
 ### {{ category.category }}
 
 
-<div class="column is-10 is-offset-1" markdown="1">
+<div class="column is-10 is-offset-1 projectlisting" markdown="1">
 
  {% for project in category.list %}
 

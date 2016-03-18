@@ -4,18 +4,27 @@ categories:
     list:
 
       - name: Open Rocket Document Format
-        location:
+        location: /openrocketdoc/ 
         github: https://github.com/open-aerospace/openrocketdoc
         badges:
           - https://img.shields.io/badge/language-python-green.svg
           - https://img.shields.io/pypi/v/openrocketdoc.svg
-          - https://img.shields.io/travis/natronics/openrocketdoc.svg
-          - https://readthedocs.org/projects/openrocketdoc/badge/?version=latest
+          - https://travis-ci.org/open-aerospace/openrocketdoc.svg?branch=master
         description: Open Rocket Document (.ord) is a suggested open document standard for describing sounding rockets. Includes many useful format transformations for use with scientific computing packages.
 
 
   - category: Simulation
     list:
+
+      - name: The barrowman Python Module
+        location: /barrowman/
+        github: https://github.com/open-aerospace/barrowman
+        badges:
+          - https://img.shields.io/badge/language-python-green.svg
+          - https://img.shields.io/pypi/v/barrowman.svg
+          - https://travis-ci.org/open-aerospace/barrowman.svg?branch=master
+        description: "Pure Python implementation of \"Barrowman's method\" of estimating the aerodynamics of slender bodies (read: rockets)"
+
 
       - name: JSBSim NASA Test Cases
         location: /jsbsim-nasa-test-cases/
