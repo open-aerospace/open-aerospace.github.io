@@ -52,8 +52,24 @@ footer
 .highlight pre
   padding: 15px 15px 15px 10px
 
-.toctree-l2
-  margin-left: 2.0em
+.toc ul ul
+  list-style: circle inside
+  margin-left: 1.3em
+
+li.current
+  background: #eee
+
+.related
+
+  ul
+    @extend .columns
+    list-style: none
+
+  li
+    @extend .column
+
+  a
+    @extend .button
 
 .class
   border-top: 2px dashed $primary
