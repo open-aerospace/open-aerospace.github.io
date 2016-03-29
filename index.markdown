@@ -47,6 +47,8 @@ Projects:
 
 <{{ project.github }}>
 
+<div class="githubstatus" data-web="{{ project.location }}"></div>
+
  {% endfor %}
 
 </div>
@@ -54,3 +56,5 @@ Projects:
 {% endfor %}
 
 [hpr]: http://www.nar.org/high-power-rocketry-info/ "What is High Power Rocketry?"
+
+<script src="/assets/js/github.js"></script>
