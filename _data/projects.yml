@@ -23,6 +23,7 @@ categories:
           - https://img.shields.io/badge/language-python-green.svg
           - https://img.shields.io/pypi/v/barrowman.svg
           - https://travis-ci.org/open-aerospace/barrowman.svg?branch=master
+          - https://coveralls.io/repos/github/open-aerospace/barrowman/badge.svg?branch=master
         description: "Pure Python implementation of \"Barrowman's method\" of estimating the aerodynamics of slender bodies (read: rockets)"
 
 
