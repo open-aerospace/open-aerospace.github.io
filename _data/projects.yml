@@ -39,6 +39,13 @@ categories:
   - category: Historical Reconstructions
     list:
 
+      - name: "Aerobee 150"
+        location: https://open-aerospace.github.io/Aerobee-150/
+        github: https://github.com/open-aerospace/Aerobee-150
+        badges:
+          - https://travis-ci.org/open-aerospace/Aerobee-150.svg?branch=master
+        description: The Aerobee 150 is a four-fin sounding rocket approximately 9 meters long and 38 centimeters in diameter, first flown in February, 1960. The rocket was capable of transporting 45 to 130 kilograms payloads to high altitudes (over 200 kilometers) with a stable, near vertical trajectory. The rocket consisted of a liquid propellant sustainer and a solid propellant booster.
+
       - name: Lambda-4S
         location:
         github: https://github.com/open-aerospace/Lambda-4S
