@@ -10,6 +10,8 @@ categories:
           - https://img.shields.io/badge/language-python-green.svg
           - https://img.shields.io/pypi/v/openrocketdoc.svg
           - https://travis-ci.org/open-aerospace/openrocketdoc.svg?branch=master
+          - https://coveralls.io/repos/github/open-aerospace/openrocketdoc/badge.svg?branch=master
+          - https://img.shields.io/github/issues/open-aerospace/openrocketdoc.svg
         description: Open Rocket Document (.ord) is a suggested open document standard for describing sounding rockets. Includes many useful format transformations for use with scientific computing packages.
 
 
@@ -24,6 +26,7 @@ categories:
           - https://img.shields.io/pypi/v/barrowman.svg
           - https://travis-ci.org/open-aerospace/barrowman.svg?branch=master
           - https://coveralls.io/repos/github/open-aerospace/barrowman/badge.svg?branch=master
+          - https://img.shields.io/github/issues/open-aerospace/barrowman.svg
         description: "Pure Python implementation of \"Barrowman's method\" of estimating the aerodynamics of slender bodies (read: rockets)"
 
 
@@ -34,6 +37,7 @@ categories:
           - https://img.shields.io/badge/simulator-JSBSim-red.svg
           - https://img.shields.io/badge/language-Jupyter%20Notebook-yellow.svg
           - https://travis-ci.org/open-aerospace/jsbsim-nasa-test-cases.svg?branch=master
+          - https://img.shields.io/github/issues/open-aerospace/jsbsim-nasa-test-cases.svg
         description: An attempt to apply NASA published flight simulation test cases to the open source JSBSim flight dynamics simulation framework.
 
   - category: Historical Reconstructions
@@ -44,6 +48,7 @@ categories:
         github: https://github.com/open-aerospace/Aerobee-150
         badges:
           - https://travis-ci.org/open-aerospace/Aerobee-150.svg?branch=master
+          - https://img.shields.io/github/issues/open-aerospace/Aerobee-150.svg
         description: The Aerobee 150 is a four-fin sounding rocket approximately 9 meters long and 38 centimeters in diameter, first flown in February, 1960. The rocket was capable of transporting 45 to 130 kilograms payloads to high altitudes (over 200 kilometers) with a stable, near vertical trajectory. The rocket consisted of a liquid propellant sustainer and a solid propellant booster.
 
       - name: Lambda-4S
