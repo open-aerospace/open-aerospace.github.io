@@ -71,6 +71,32 @@ li.current
   a
     @extend .button
 
+.section .toctree-wrapper:before
+  content: "Contents:"
+  padding-bottom: 0.9em
+
+.section .toctree-wrapper
+  background: #f7f7f7
+  margin-left: 20px
+  padding: 10px
+  float: right
+  width: 40%
+
+  ul
+    list-style: none
+    margin-left: 0
+    margin-bottom: 0
+    margin-top: 0
+
+  ul ul
+    list-style: circle inside
+    margin-left: 1.3em
+    margin-bottom: 0
+    margin-top: 0
+
+  li
+    margin-top: 0
+
 .class
   border-top: 2px dashed $primary
   padding-top: 10px
