@@ -29,6 +29,17 @@ categories:
           - https://img.shields.io/github/issues/open-aerospace/barrowman.svg
         description: "Pure Python implementation of \"Barrowman's method\" of estimating the aerodynamics of slender bodies (read: rockets)"
 
+      - name: JSBSim Manager Python Module
+        location: /jsbsim-manager/
+        github: https://github.com/open-aerospace/jsbsim-manager
+        badges:
+          - https://img.shields.io/badge/language-python-green.svg
+          - https://img.shields.io/pypi/v/jsbsim_manager.svg
+          - https://img.shields.io/travis/open-aerospace/jsbsim-manager.svg
+          - https://requires.io/github/open-aerospace/jsbsim-manager/requirements.svg?branch=master
+          - https://coveralls.io/repos/github/open-aerospace/jsbsim-manager/badge.svg?branch=master
+          - https://img.shields.io/github/issues/open-aerospace/jsbsim-manager.svg
+        description: "Python helper module to create and run XML files for JSBSim and run many instances in parallel"
 
       - name: JSBSim NASA Test Cases
         location: /jsbsim-nasa-test-cases/
@@ -44,7 +55,7 @@ categories:
     list:
 
       - name: "Aerobee 150"
-        location: https://open-aerospace.github.io/Aerobee-150/
+        location: /Aerobee-150/
         github: https://github.com/open-aerospace/Aerobee-150
         badges:
           - https://travis-ci.org/open-aerospace/Aerobee-150.svg?branch=master
