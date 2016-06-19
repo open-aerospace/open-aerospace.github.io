@@ -54,7 +54,7 @@ categories:
   - category: Historical Reconstructions
     list:
 
-      - name: "Aerobee 150"
+      - name: Aerobee 150
         location: /Aerobee-150/
         github: https://github.com/open-aerospace/Aerobee-150
         badges:
@@ -63,7 +63,9 @@ categories:
         description: The Aerobee 150 is a four-fin sounding rocket approximately 9 meters long and 38 centimeters in diameter, first flown in February, 1960. The rocket was capable of transporting 45 to 130 kilograms payloads to high altitudes (over 200 kilometers) with a stable, near vertical trajectory. The rocket consisted of a liquid propellant sustainer and a solid propellant booster.
 
       - name: Lambda-4S
-        location:
+        location: /Lambda-4S/
         github: https://github.com/open-aerospace/Lambda-4S
-        badges: []
+        badges:
+          - https://travis-ci.org/open-aerospace/Lambda-4S.svg?branch=master
+          - https://img.shields.io/github/issues/open-aerospace/Lambda-4S.svg
         description: The Lambda-4S rocket is currently the smallest (by volume) rocket ever built by humans that has carried a Payload into Earth orbit. Much of it's history is fascinating.
