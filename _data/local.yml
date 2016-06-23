@@ -1,0 +1,14 @@
+title: "Open Source Aerospace Computing"
+subtitle: "Modeling **rockets** with open source tools and methods"
+
+nav:
+  - title: Home
+    url: /
+    name: home
+  - title: News
+    url: /news/
+    name: news
+  - title: How To Simulate A Rocket
+    url: /simulate/
+    name: simulate
+
