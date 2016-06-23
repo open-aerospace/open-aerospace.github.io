@@ -28,10 +28,13 @@ Projects:
 
 {% for category in site.data.projects.categories %}
 
+
+
 ### {{ category.category }}
 
+{{ category.description }}
 
-<div class="column is-10 is-offset-1 projectlisting" markdown="1">
+<div class="column is-8 projectlisting" markdown="1">
 
  {% for project in category.list %}
 

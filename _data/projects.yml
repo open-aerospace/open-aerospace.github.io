@@ -1,6 +1,7 @@
 categories:
 
   - category: File Formats
+    description: Some standardization is needed to make sharing data easier. In some cases it seemed necessary to create a file format standard.
     list:
 
       - name: Open Rocket Document Format
@@ -16,6 +17,7 @@ categories:
 
 
   - category: Simulation
+    description: Tools and libraries to assist or run the simulation of rocket flights.
     list:
 
       - name: The barrowman Python Module
@@ -52,6 +54,7 @@ categories:
         description: An attempt to apply NASA published flight simulation test cases to the open source JSBSim flight dynamics simulation framework.
 
   - category: Historical Reconstructions
+    description: Some reconstructions of historical flights of famous or interesting real rockets.
     list:
 
       - name: Aerobee 150
